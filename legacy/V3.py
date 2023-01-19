@@ -4,7 +4,7 @@ New v3 features:
 - The sections have been grouped appropriately
 - Now using Tkinter label frames to make user experience better
 - Added bug fixes and error handling alerts
-- Now if you run the autoclicker without a selected 
+- Now if you run the autoclicker without a selected mode it will open a pyautogui alert and tell you what to fix
 """
 
 
