@@ -1,3 +1,17 @@
+"""
+New v3 features:
+
+- The sections have been grouped appropriately
+- Now using Tkinter label frames to make user experience better
+- Added bug fixes and error handling alerts
+- Now if you run the autoclicker without a selected 
+"""
+
+
+
+
+
+
 import tkinter
 from tkinter import *
 import pyautogui
