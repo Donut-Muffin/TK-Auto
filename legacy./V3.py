@@ -5,7 +5,7 @@ import time
 import keyboard
 Click=False
 window = tkinter.Tk()
-window.title("AutoClicker")
+window.title("AutoClicker V3")
 window.geometry("600x600")
 def stop():
     global Click
