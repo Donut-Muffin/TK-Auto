@@ -1,12 +1,17 @@
 # TK-Auto
 Simple tkinter autoclicker built with python
+
 ## Packages required
+```python
+pip install keyboard
+```
 <ul>
   <li>keyboard</li>
   <li>tkinter</li>
   <li>time</li>
   <li>pyautogui</li>
 </ul>
+
 ## How to use
 
 ![Photo of the v4 UI](Example ui.png)
