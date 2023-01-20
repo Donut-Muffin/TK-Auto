@@ -6,7 +6,7 @@ import keyboard
 import tkinter.ttk as ttk
 from tkinter import ttk
 window = tkinter.Tk()
-window.title("AutoClicker V3")
+window.title("AutoClicker v4")
 window.geometry("600x600")
 def stop():
     global Click
