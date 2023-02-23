@@ -2,7 +2,7 @@
 Simple tkinter autoclicker built with python
 
 ## Packages required
-```python
+```bash
 pip install keyboard
 pip install tkinter
 pip install time
